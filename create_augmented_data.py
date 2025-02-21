@@ -39,6 +39,7 @@ print("Training data loaded successfully.")
 # Define search bounds
 lower_left = (40.75, -74.01)
 upper_right = (40.88, -73.86)
+
 time_window = "2021-06-01/2021-09-01"
 bounds = (lower_left[1], lower_left[0], upper_right[1], upper_right[0])
 
