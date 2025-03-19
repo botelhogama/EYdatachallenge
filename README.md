@@ -48,8 +48,8 @@ The task is to develop a **regression model** that accurately predicts **UHI Ind
 
 ### 1️⃣ Clone the Repository
 ```
-git clone https://github.com/your-username/EY-Open-Science-AI-Data-Challenge-2025.git
-cd EY-Open-Science-AI-Data-Challenge-2025
+git clone https://github.com/botelhogama/EYdatachallenge/
+cd EYdatachallenge
 ```
 
 ### 2️⃣ Install Dependencies
