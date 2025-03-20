@@ -91,3 +91,6 @@ This project is licensed under the **MIT License**.
 
 🎯 **Let's use AI to build a sustainable and cooler future for urban communities!** 🚀
 
+
+![image](https://github.com/user-attachments/assets/e81ad62a-d4ba-4c6d-80e6-dca0da08bc41)
+
